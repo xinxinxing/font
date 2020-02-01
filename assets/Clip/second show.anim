@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "second show",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 2,
+          "value": 1
+        },
+        {
+          "frame": 2.5,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}
